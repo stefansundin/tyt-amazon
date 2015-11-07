@@ -5,7 +5,9 @@
   "homepage_url": "https://github.com/stefansundin/tyt-amazon-chrome/",
   "author": "Stefan Sundin",
   "icons": {
-    "48": "img/icon48.png"
+    "16": "img/icon16.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png"
   },
   "background": {
     "scripts": ["background.js"]
