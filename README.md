@@ -1,6 +1,6 @@
 # TYT Amazon Tag
 
-Give The Young Turks money with every Amazon purchase. When this extension is installed, the TYT tag will be automatically applied when using Amazon. There is no need to remember to use the TYT link.
+Give [The Young Turks](http://www.tytnetwork.com/) money with every Amazon purchase. When this extension is installed, the TYT tag will be automatically applied when using Amazon. There is no need to remember to use the TYT link.
 
 If you ever shop using incognito mode, remember to check the "Allow in incognito" checkbox in `chrome://extensions`.
 
