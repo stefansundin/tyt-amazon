@@ -6,6 +6,8 @@ If you ever shop using incognito mode, remember to check the "Allow in incognito
 
 Chrome Web Store: https://chrome.google.com/webstore/detail/tyt-amazon-tag/obkiabomgkdmlbdjmifnbkahphfgmfkk
 
+If you don't have the extension installed, this is the link you should use: http://www.amazon.com/?tag=theyoungturks-20
+
 This software is not affiliated or endorsed by The Young Turks.
 
 
