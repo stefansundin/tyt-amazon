@@ -1,7 +1,7 @@
 var tag = "theyoungturks-20";
 
 function updateQueryParam(url, key, value) {
-  var re = new RegExp("[^#]([?&])"+key+"=.*?(&|#|$)", "i");
+  var re = new RegExp("([^#][?&])"+key+"=.*?(&|#|$)", "i");
   if (url.match(re)) {
     return url.replace(re, "$1"+key+"="+value+"$2");
   }
