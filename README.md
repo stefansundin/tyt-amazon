@@ -15,6 +15,9 @@ This software is not affiliated or endorsed by The Young Turks.
 
 [![RSS](https://stefansundin.github.io/img/feed.png) Release feed](https://github.com/stefansundin/tyt-amazon-chrome/releases.atom)
 
+**v0.1.2** - 2015-11-10 - [diff](https://github.com/stefansundin/tyt-amazon-chrome/compare/v0.1.1...v0.1.2):
+- I made a mistake in the last fix.
+
 **v0.1.1** - 2015-11-10 - [diff](https://github.com/stefansundin/tyt-amazon-chrome/compare/v0.1.0...v0.1.1):
 - Fix a bug where a single character would be removed from the url if another tag was already there.
 

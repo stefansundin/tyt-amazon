@@ -1,6 +1,6 @@
 {
   "name": "TYT Amazon Tag",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Give The Young Turks money with every Amazon purchase. The TYT tag will be automatically applied when using Amazon.",
   "homepage_url": "https://github.com/stefansundin/tyt-amazon-chrome",
   "author": "Stefan Sundin",
