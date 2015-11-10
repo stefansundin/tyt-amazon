@@ -1,12 +1,12 @@
 var tag = "theyoungturks-20";
 
 function updateQueryParam(url, key, value) {
-  var re = new RegExp("([^#][?&])"+key+"=.*?(&|#|$)", "i");
+  var re = new RegExp("^([^#]*[?&])"+key+"=.*?(&|#|$)", "i");
   if (url.match(re)) {
     return url.replace(re, "$1"+key+"="+value+"$2");
   }
   else {
-    var separator = url.indexOf("?") == -1 ? "?" : "&";
+    var separator = (url.indexOf("?") == -1 || url.indexOf("#") < url.indexOf("?")) ? "?" : "&";
     return url.replace(/(#|$)/, separator+key+"="+value+"$1");
   }
 }
