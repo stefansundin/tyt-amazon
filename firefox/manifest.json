@@ -30,5 +30,10 @@
     "*://www.amazon.es/*",
     "*://www.amazon.co.uk/*"
   ],
+  "applications": {
+    "gecko": {
+      "id": "tyt-amazon@firefox.stefansundin.com"
+    }
+  },
   "manifest_version": 2
 }

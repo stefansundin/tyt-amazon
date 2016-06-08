@@ -1,7 +1,10 @@
 Thumbs.db
-.DS_Store
+*.DS_Store
 *.swp
 
+web-ext-artifacts
+/node_modules
 /*.crx
+/*.xpi
 /*.zip
 /*.pem
