@@ -6,6 +6,8 @@ If you ever shop using incognito mode, remember to check the "Allow in incognito
 
 Chrome Web Store: https://chrome.google.com/webstore/detail/tyt-amazon-tag/obkiabomgkdmlbdjmifnbkahphfgmfkk
 
+Firefox Addons: https://addons.mozilla.org/addon/tyt-amazon-tag/
+
 If you don't have the extension installed, this is the link you should use: http://www.amazon.com/?tag=theyoungturks-20
 
 This software is not affiliated or endorsed by The Young Turks.
@@ -14,6 +16,9 @@ This software is not affiliated or endorsed by The Young Turks.
 # Changelog
 
 [![RSS](https://stefansundin.github.io/img/feed.png) Release feed](https://github.com/stefansundin/tyt-amazon/releases.atom)
+
+**v0.1.2-firefox** - 2016-06-08 - [diff](https://github.com/stefansundin/tyt-amazon/compare/v0.1.2...v0.1.2-firefox):
+- Released Firefox version. No code change.
 
 **v0.1.2** - 2015-11-10 - [diff](https://github.com/stefansundin/tyt-amazon/compare/v0.1.1...v0.1.2):
 - I made a mistake in the last fix.
