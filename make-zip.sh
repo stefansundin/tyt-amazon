@@ -1,4 +1,5 @@
 #!/bin/bash -ex
-V=$(cat extension/manifest.json | grep '"version"' | grep -o "\d*\.\d*\.\d*")
-rm -f "tyt-amazon-v$V.zip"
-zip -r "tyt-amazon-v$V.zip" extension/*
+V=$(cat extension/manifest.json | jq -Mr .version)
+rm -f "tyt-amazon-$V.zip"
+cd extension
+zip -r "../tyt-amazon-$V.zip" . -x '*.DS_Store' -x '*Thumbs.db'
